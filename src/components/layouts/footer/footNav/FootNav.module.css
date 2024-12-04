@@ -1,0 +1,32 @@
+.FootNav {
+    margin-left: 100px;
+}
+
+.title {
+    color: beige;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.title:hover {
+    color: #63ff00;
+    transition: all 0.3s linear;
+}
+
+.tit {
+    margin-bottom: 0px;
+}
+
+.link {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.link:hover {
+    color: #63ff00;
+}
+
+.list {
+    margin-bottom: 15px;
+}

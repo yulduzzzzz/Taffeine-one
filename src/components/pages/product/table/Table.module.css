@@ -1,0 +1,8 @@
+.Table {
+    margin-bottom: 50px;
+}
+
+.table tr td {
+    padding: 10px 24px;
+    border: 1px solid #666;
+}

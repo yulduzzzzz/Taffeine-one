@@ -1,0 +1,60 @@
+.SecFour {
+    display: flex;
+}
+
+.title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 160%;
+    text-transform: uppercase;
+    color: #272727;
+    margin-bottom: 40px;
+}
+
+.img {
+    width: 25%;
+    margin-right: 50px;
+}
+
+.son {
+    display: flex;
+    align-items: center;
+}
+
+.btn_buy {
+    padding: 8px 25px;
+    background-color: #d6eebe;
+    border: 0;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    margin-right: 50px;
+}
+
+.btn_buyy {
+    padding: 8px 25px;
+    background-color: #f4f4f4;
+    border: 0;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.table {
+    margin-bottom: 30px;
+}
+
+.table tr td {
+    padding: 10px 24px;
+    border: 1px solid #666;
+}
+
+.box {
+    padding-top: 50px;
+}
+
+.linkk {
+    color: black;
+    text-decoration: none;
+}

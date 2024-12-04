@@ -1,0 +1,13 @@
+.tit {
+    font-family: Gilroy;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 51.2px;
+    color: #272727;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tit:hover {
+    color: #1890ff;
+}

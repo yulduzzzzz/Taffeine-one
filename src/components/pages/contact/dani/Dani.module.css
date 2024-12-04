@@ -1,0 +1,10 @@
+.Dani {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 50px;
+}

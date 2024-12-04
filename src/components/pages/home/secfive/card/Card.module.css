@@ -1,0 +1,42 @@
+.Card {
+    width: 100%;
+    height: 500px;
+    background: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.img {
+    margin-bottom: 10px;
+    transition: 0.5s linear;
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 160%;
+    color: #272727;
+    margin-bottom: 12px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.text {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 160%;
+    color: #525252;
+    margin-bottom: 0;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}

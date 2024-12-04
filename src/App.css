@@ -1,0 +1,188 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.container {
+    max-width: 1740px;
+    margin: 0 auto;
+    padding: 0px 30px;
+}
+
+.b .owl-nav {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    transform: translateY(-400px);
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 30px;
+}
+
+.b .owl-carousel .owl-nav button.owl-prev {
+    width: 65px!important;
+    height: 65px!important;
+    border-radius: 50px!important;
+    background: hsla(0, 0%, 100%, .1)!important;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-left-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 50% 50% !important;
+}
+
+.b .owl-carousel .owl-nav button.owl-next {
+    width: 65px!important;
+    height: 65px!important;
+    border-radius: 50px!important;
+    background: hsla(0, 0%, 100%, .1)!important;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-right-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 50% 50% !important;
+}
+
+.b .owl-carousel .owl-nav button.owl-next {
+    background-position: 50% 50%!important;
+    background-color: beige!important;
+}
+
+.b .owl-carousel .owl-nav button.owl-prev {
+    background-position: 50% 50%!important;
+    background-color: beige!important;
+}
+
+.b .owl-carousel span {
+    display: none!important;
+}
+
+
+/* owl*/
+
+.slide {
+    padding: 100px;
+}
+
+.slide .owl-nav {
+    display: block!important;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide .owl-prev {
+    width: 56px;
+    height: 56px;
+    border-radius: 56px!important;
+    background: #dfdfdf;
+    color: rgb(5, 5, 5)!important;
+}
+
+.slide .owl-next {
+    width: 56px;
+    height: 56px;
+    border-radius: 56px!important;
+    background: #dfdfdf;
+    color: rgb(5, 5, 5)!important;
+}
+
+.slide .owl-carousel .owl-nav button.owl-prev {
+    background-position: 50% 50%!important;
+    background: #dfdfdf;
+}
+
+.slide .owl-carousel .owl-nav button.owl-next {
+    background-position: 50% 50%!important;
+    background: #dfdfdf;
+}
+
+.slide .owl-carousel span {
+    display: none!important;
+}
+
+.slide .owl-carousel .owl-nav button.owl-next {
+    border-radius: 50px!important;
+    background: #dfdfdf;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-right-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 40% 40% !important;
+}
+
+.slide .owl-carousel .owl-nav button.owl-prev {
+    border-radius: 50px!important;
+    background: #dfdfdf;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-left-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 40% 40% !important;
+}
+
+
+/*owl*/
+
+
+/* owl*/
+
+.owl {
+    /* padding: 100px; */
+}
+
+.owl .owl-nav {
+    display: block!important;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.owl .owl-prev {
+    width: 56px;
+    height: 56px;
+    border-radius: 56px!important;
+    background: #dfdfdf;
+    color: rgb(5, 5, 5)!important;
+}
+
+.owl .owl-next {
+    width: 56px;
+    height: 56px;
+    border-radius: 56px!important;
+    background: #dfdfdf;
+    color: rgb(5, 5, 5)!important;
+}
+
+.owl .owl-carousel .owl-nav button.owl-prev {
+    background-position: 50% 50%!important;
+    background: #dfdfdf;
+}
+
+.owl .owl-carousel .owl-nav button.owl-next {
+    background-position: 50% 50%!important;
+    background: #dfdfdf;
+}
+
+.owl .owl-carousel span {
+    display: none!important;
+}
+
+.owl .owl-carousel .owl-nav button.owl-next {
+    border-radius: 50px!important;
+    background: #dfdfdf;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-right-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 40% 40% !important;
+}
+
+.owl .owl-carousel .owl-nav button.owl-prev {
+    border-radius: 50px!important;
+    background: #dfdfdf;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-left-64.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: 40% 40% !important;
+}
+
+
+/*owl*/
